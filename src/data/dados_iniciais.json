@@ -1,0 +1,317 @@
+{
+  "categorias": [
+    {
+      "titulo": "História",
+      "link": "https://descomplica.com.br/tudo-sobre-enem/novidades/saiba-os-temas-que-mais-caem-na-prova-de-historia-do-enem/",
+      "cor": "#8B4513",
+      "link_extra": {
+        "text": "O que estudar para História no ENEM",
+        "url": "https://descomplica.com.br/tudo-sobre-enem/novidades/saiba-os-temas-que-mais-caem-na-prova-de-historia-do-enem/"
+      },
+      "videos": [
+        {
+          "titulo": "O que é o ENEM? Vale a pena fazer?",
+          "url": "https://www.youtube.com/watch?v=Y4Mjrtr78RY"
+        },
+        {
+          "titulo": "500 anos em 1h / História do Brasil",
+          "url": "https://www.youtube.com/watch?v=q7E4XrfGGnE"
+        },
+        {
+          "titulo": "O que mais cai em História? #Descomplica",
+          "url": "https://www.youtube.com/watch?v=V2x-vy-wFt0"
+        },
+        {
+          "titulo": "O que mais cai em História? #Stoodi",
+          "url": "https://www.youtube.com/watch?v=f8Td3vd-VwU&feature=emb_title"
+        },
+        {
+          "titulo": "Brasil colônia - Introdução #SeLigaNessaHistória",
+          "url": "https://www.youtube.com/watch?v=sP2kl0irjBQ&list=PLPNLvl90MqKStxdRIwxQeu3LPzFPsMfap"
+        },
+        {
+          "titulo": "Resumo sobre Idade Média #DéboraAladim",
+          "url": "https://www.youtube.com/watch?v=CTIs_RSPr84"
+        },
+        {
+          "titulo": "Resumo sobre Cruzadas #DéboraAladim",
+          "url": "https://www.youtube.com/watch?v=6dqmWqmdqJk"
+        },
+        {
+          "titulo": "O que mais cai em História? #DéboraAladim",
+          "url": "https://www.youtube.com/watch?v=LzaCE3RKAZ4"
+        }
+      ]
+    },
+    {
+      "titulo": "Geografia",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "O que estudar para Geografia no ENEM",
+        "url": "https://descomplica.com.br/tudo-sobre-enem/novidades/geografia-enem/"
+      },
+      "videos": [
+        {
+          "titulo": "O que mais cai em Geografia? #Descomplica",
+          "url": "https://www.youtube.com/watch?v=gukgj1pQK9Q"
+        },
+        {
+          "titulo": "O que mais cai em Geografia? #Stoodi",
+          "url": "https://www.youtube.com/watch?v=KBEijAnY7QU&feature=emb_title"
+        },
+        {
+          "titulo": "Crescimento desordernado das cidades e Reforma da Previdência #PróUniversidade",
+          "url": "https://www.youtube.com/watch?v=BpFxCgzhwvs"
+        },
+        {
+          "titulo": "Tendências de Geografia #Descomplica",
+          "url": "https://www.youtube.com/watch?v=FOnb4-VKF4A"
+        },
+        {
+          "titulo": "Geografia para o Enem #Descomplica",
+          "url": "https://www.youtube.com/watch?v=qCxaDtPXJFw"
+        }
+      ]
+    },
+    {
+      "titulo": "Filosofia e Sociologia",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "O que estudar para Filosofia e Sociologia no ENEM",
+        "url": "https://guiadoestudante.abril.com.br/estudo/quais-os-assuntos-mais-cobrados-de-sociologia-e-filosofia-no-enem/"
+      },
+      "videos": [
+        {
+          "titulo": "O que mais cai em Filosofia e Sociologia? #Descomplica",
+          "url": "https://www.youtube.com/watch?v=LQPSZRKq6cg"
+        },
+        {
+          "titulo": "Resumão de Filosofia e Sociologia #Aulalivre",
+          "url": "https://www.youtube.com/watch?v=K4fgC42_QmE"
+        },
+        {
+          "titulo": "Resumão de Filosofia e Sociologia #Mesalva",
+          "url": "https://www.youtube.com/watch?v=5eknNeWWmEI"
+        },
+        {
+          "titulo": "Resumão de Filosofia e Sociologia #FBonline",
+          "url": "https://www.youtube.com/watch?v=DOvo6uxvTBc"
+        },
+        {
+          "titulo": "Resumão de Filosofia e Sociologia #Aulalivre",
+          "url": "https://www.youtube.com/watch?v=acP4fIlaKzE"
+        }
+      ]
+    },
+    {
+      "titulo": "Biologia",
+      "cor": "orange",
+      "link_extra": {
+        "text": "O que estudar para Biologia no ENEM",
+        "url": "https://descomplica.com.br/tudo-sobre-enem/novidades/biologia-enem/"
+      },
+      "videos": [
+        {
+          "titulo": "O que mais cai em Biologia? #Descomplica",
+          "url": "https://www.youtube.com/watch?v=Gnr0ObQxY54"
+        },
+        {
+          "titulo": "Conceitos básicos da Ecologia #KennedyRamos",
+          "url": "https://www.youtube.com/watch?v=w8zHbA3CSBo"
+        },
+        {
+          "titulo": "Maratona de Biologia #BiologiaProfGuilherme",
+          "url": "https://www.youtube.com/watch?v=1P0x7NJqPMQ"
+        },
+        {
+          "titulo": "Resumão de Biologia #Descomplica",
+          "url": "https://www.youtube.com/watch?v=VJcYg8aZmls"
+        },
+        {
+          "titulo": "Resumão de Biologia #Descomplica",
+          "url": "https://www.youtube.com/watch?v=b7sPpzwRfoU"
+        }
+      ]
+    },
+    {
+      "titulo": "Física",
+      "cor": "red",
+      "link_extra": {
+        "text": "O que estudar para Física no ENEM",
+        "url": "https://descomplica.com.br/tudo-sobre-enem/novidades/fisica-enem/"
+      },
+      "videos": [
+        {
+          "titulo": "Resumão de Física #TVOficina",
+          "url": "https://www.youtube.com/watch?v=s6AoIUQzGFY"
+        },
+        {
+          "titulo": "Resumão de Física #MeSalva",
+          "url": "https://www.youtube.com/watch?v=eFXFQPrgxFI"
+        },
+        {
+          "titulo": "Dicas de Física para o ENEM #Beduka",
+          "url": "https://www.youtube.com/watch?v=8Ps_B27spf8"
+        },
+        {
+          "titulo": "Resumão de Física #MeSalva",
+          "url": "https://www.youtube.com/watch?v=XMXsh5A0blI"
+        },
+        {
+          "titulo": "Resumão de Física e maratona #MeSalva",
+          "url": "https://www.youtube.com/watch?v=DHkLsq1wv88"
+        }
+      ]
+    },
+    {
+      "titulo": "Química",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "O que estudar para Química no ENEM",
+        "url": "https://descomplica.com.br/tudo-sobre-enem/novidades/quimica-enem/"
+      },
+      "videos": [
+        {
+          "titulo": "Resumão de Química #MeSalva",
+          "url": "https://www.youtube.com/watch?v=8kNam8fnf8w"
+        },
+        {
+          "titulo": "Revisão de Química #Aulalivre",
+          "url": "https://www.youtube.com/watch?v=wFpSW-dSBDE"
+        },
+        {
+          "titulo": "Revisão de Química #Aulalivre",
+          "url": "https://www.youtube.com/watch?v=tAlyelx-Xek"
+        },
+        {
+          "titulo": "O que mais cai em Química? #Descomplica",
+          "url": "https://www.youtube.com/watch?v=9DlTp2ew_ew"
+        },
+        {
+          "titulo": "Tudo sobre Química #Descomplica",
+          "url": "https://www.youtube.com/watch?v=gPBcQBKwhUE"
+        }
+      ]
+    },
+    {
+      "titulo": "Português",
+      "cor": "#20B2AA",
+      "link_extra": {
+        "text": "O que estudar para Português no ENEM",
+        "url": "https://descomplica.com.br/tudo-sobre-enem/novidades/portugues-no-enem-como-comecar-estudar/"
+      },
+      "videos": [
+        {
+          "titulo": "Português do Zero para ENEM #AprovaConcursos",
+          "url": "https://www.youtube.com/watch?v=ygMoWIKUoZA"
+        },
+        {
+          "titulo": "O que mais cai em Português? #Stoodi",
+          "url": "https://www.youtube.com/watch?v=Jn3f8Qze5Vw&feature=emb_title"
+        },
+        {
+          "titulo": "Funções da linguagem #CursoEnemGratuito",
+          "url": "https://www.youtube.com/watch?v=GKFYCOt2wpA"
+        },
+        {
+          "titulo": "Resumão de Linguagens #MeSalva",
+          "url": "https://www.youtube.com/watch?v=Cie9n0V0-F0"
+        },
+        {
+          "titulo": "Linguagens, Códigos e suas Tecnologias no ENEM",
+          "url": "https://www.youtube.com/watch?v=SQWbSVCAtV0"
+        }
+      ]
+    },
+    {
+      "titulo": "Literatura",
+      "cor": "#BC8F8F",
+      "link_extra": {
+        "text": "O que estudar para Literatura no ENEM",
+        "url": "https://descomplica.com.br/tudo-sobre-enem/novidades/4-dicas-de-como-estudar-literatura-para-o-enem/"
+      },
+      "videos": [
+        {
+          "titulo": "Aulão de Literatura #VáLerUmLivro",
+          "url": "https://www.youtube.com/watch?v=wv_7blnRKrM"
+        },
+        {
+          "titulo": "Resumão de Literatura #QueroBolsa",
+          "url": "https://www.youtube.com/watch?v=PPikx1KTffU"
+        },
+        {
+          "titulo": "Revisão mágica de Literatura #MundoEdu",
+          "url": "https://www.youtube.com/watch?v=chKmEdyMs08"
+        },
+        {
+          "titulo": "O que você precisa saber sobre Literatura? #VáLerUmLivro",
+          "url": "https://www.youtube.com/watch?v=MFuOLPVj56I"
+        },
+        {
+          "titulo": "Literatura no ENEM #Descomplica",
+          "url": "https://www.youtube.com/watch?v=m95T049myok"
+        }
+      ]
+    },
+    {
+      "titulo": "Língua Estrangeira",
+      "cor": "#A52A2A",
+      "link_extra": {
+        "text": "O que estudar para Língua Estrangeira no ENEM",
+        "url": "https://www.educamaisbrasil.com.br/educacao/enem/veja-como-sao-abordadas-questoes-do-enem-de-lingua-estrangeira"
+      },
+      "videos": [
+        {
+          "titulo": "Como estudar melhor?",
+          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+        },
+        {
+          "titulo": "Faculdade",
+          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+        },
+        {
+          "titulo": "Frameworks",
+          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+        },
+        {
+          "titulo": "A mágica do Aprendizado",
+          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+        },
+        {
+          "titulo": "Como aprender a programar?",
+          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+        }
+      ]
+    },
+    {
+      "titulo": "Matemática",
+      "cor": "#1E90FF",
+      "link_extra": {
+        "text": "O que estudar para Matemática no ENEM",
+        "url": "https://descomplica.com.br/tudo-sobre-enem/novidades/matematica-enem/"
+      },
+      "videos": [
+        {
+          "titulo": "Como estudar melhor?",
+          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+        },
+        {
+          "titulo": "Faculdade",
+          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+        },
+        {
+          "titulo": "Frameworks",
+          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+        },
+        {
+          "titulo": "A mágica do Aprendizado",
+          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+        },
+        {
+          "titulo": "Como aprender a programar?",
+          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+        }
+      ]
+    }
+  ]
+}
