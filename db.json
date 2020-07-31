@@ -1,0 +1,17 @@
+{
+    "categorias": [
+        {
+            "id": 1,
+            "nome": "História",
+            "descricao": "História no ENEM",
+            "cor": "#8B4513"
+        },
+        {
+            "id": 2,
+            "nome": "Geografia",
+            "descricao": "Geografia no ENEM",
+            "cor": "#00C86F"
+        }
+    ]
+}
+
