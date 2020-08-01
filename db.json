@@ -1,17 +1,420 @@
 {
-    "categorias": [
-        {
-            "id": 1,
-            "nome": "História",
-            "descricao": "História no ENEM",
-            "cor": "#8B4513"
-        },
-        {
-            "id": 2,
-            "nome": "Geografia",
-            "descricao": "Geografia no ENEM",
-            "cor": "#00C86F"
-        }
-    ]
+  "categorias": [
+    {
+      "id": 1,
+      "titulo": "História",
+      "cor": "#8B4513",
+      "link_extra": {
+        "text": "O que estudar para História no ENEM",
+        "url": "https://descomplica.com.br/tudo-sobre-enem/novidades/saiba-os-temas-que-mais-caem-na-prova-de-historia-do-enem/"
+      }
+    },
+    {
+      "id": 2,
+      "titulo": "Geografia",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "O que estudar para Geografia no ENEM",
+        "url": "https://descomplica.com.br/tudo-sobre-enem/novidades/geografia-enem/"
+      }
+    },
+    {
+      "id": 3,
+      "titulo": "Filosofia e Sociologia",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "O que estudar para Filosofia e Sociologia no ENEM",
+        "url": "https://guiadoestudante.abril.com.br/estudo/quais-os-assuntos-mais-cobrados-de-sociologia-e-filosofia-no-enem/"
+      }
+    },
+    {
+      "id": 4,
+      "titulo": "Biologia",
+      "cor": "#orange",
+      "link_extra": {
+        "text": "O que estudar para Biologia no ENEM",
+        "url": "https://descomplica.com.br/tudo-sobre-enem/novidades/biologia-enem/"
+      }
+    },
+    {
+      "id": 5,
+      "titulo": "Física",
+      "cor": "#red",
+      "link_extra": {
+        "text": "O que estudar para Física no ENEM",
+        "url": "https://descomplica.com.br/tudo-sobre-enem/novidades/fisica-enem/"
+      }
+    },
+    {
+      "id": 6,
+      "titulo": "Química",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "O que estudar para Química no ENEM",
+        "url": "https://descomplica.com.br/tudo-sobre-enem/novidades/quimica-enem/"
+      }
+    },
+    {
+      "id": 7,
+      "titulo": "Português",
+      "cor": "#20B2AA",
+      "link_extra": {
+        "text": "O que estudar para Português no ENEM",
+        "url": "https://descomplica.com.br/tudo-sobre-enem/novidades/portugues-no-enem-como-comecar-estudar/"
+      }
+    },
+    {
+      "id": 8,
+      "titulo": "Literatura",
+      "cor": "#BC8F8F",
+      "link_extra": {
+        "text": "O que estudar para Literatura no ENEM",
+        "url": "https://descomplica.com.br/tudo-sobre-enem/novidades/4-dicas-de-como-estudar-literatura-para-o-enem/"
+      }
+    },
+    {
+      "id": 9,
+      "titulo": "Língua Estrangeira",
+      "cor": "#A52A2A",
+      "link_extra": {
+        "text": "O que estudar para Língua Estrangeira no ENEM",
+        "url": "https://www.educamaisbrasil.com.br/educacao/enem/veja-como-sao-abordadas-questoes-do-enem-de-lingua-estrangeira"
+      }
+    },
+    {
+      "id": 10,
+      "titulo": "Matemática",
+      "cor": "#1E90FF",
+      "link_extra": {
+        "text": "O que estudar para Matemática no ENEM",
+        "url": "https://descomplica.com.br/tudo-sobre-enem/novidades/matematica-enem/"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "id": 0,
+      "categoriaId": 1,
+      "titulo": "O que é o ENEM? Vale a pena fazer?",
+      "url": "https://www.youtube.com/watch?v=Y4Mjrtr78RY"
+    },
+    {
+      "id": 1,
+      "categoriaId": 1,
+      "titulo": "500 anos em 1h / História do Brasil",
+      "url": "https://www.youtube.com/watch?v=q7E4XrfGGnE"
+    },
+    {
+      "id": 2,
+      "categoriaId": 1,
+      "titulo": "O que mais cai em História? #Descomplica",
+      "url": "https://www.youtube.com/watch?v=V2x-vy-wFt0"
+    },
+    {
+      "id": 3,
+      "categoriaId": 1,
+      "titulo": "O que mais cai em História? #Stoodi",
+      "url": "https://www.youtube.com/watch?v=f8Td3vd-VwU&feature=emb_title"
+    },
+    {
+      "id": 4,
+      "categoriaId": 1,
+      "titulo": "Brasil colônia - Introdução #SeLigaNessaHistória",
+      "url": "https://www.youtube.com/watch?v=sP2kl0irjBQ&list=PLPNLvl90MqKStxdRIwxQeu3LPzFPsMfap"
+    },
+    {
+      "id": 5,
+      "categoriaId": 1,
+      "titulo": "Resumo sobre Idade Média #DéboraAladim",
+      "url": "https://www.youtube.com/watch?v=CTIs_RSPr84"
+    },
+    {
+      "id": 6,
+      "categoriaId": 1,
+      "titulo": "Resumo sobre Cruzadas #DéboraAladim",
+      "url": "https://www.youtube.com/watch?v=6dqmWqmdqJk"
+    },
+    {
+      "id": 7,
+      "categoriaId": 1,
+      "titulo": "O que mais cai em História? #DéboraAladim",
+      "url": "https://www.youtube.com/watch?v=LzaCE3RKAZ4"
+    },
+    {
+      "id": 8,
+      "categoriaId": 2,
+      "titulo": "O que mais cai em Geografia? #Descomplica",
+      "url": "https://www.youtube.com/watch?v=gukgj1pQK9Q"
+    },
+    {
+      "id": 9,
+      "categoriaId": 2,
+      "titulo": "O que mais cai em Geografia? #Stoodi",
+      "url": "https://www.youtube.com/watch?v=KBEijAnY7QU&feature=emb_title"
+    },
+    {
+      "id": 10,
+      "categoriaId": 2,
+      "titulo": "Crescimento desordernado das cidades e Reforma da Previdência #PróUniversidade",
+      "url": "https://www.youtube.com/watch?v=BpFxCgzhwvs"
+    },
+    {
+      "id": 11,
+      "categoriaId": 2,
+      "titulo": "Tendências de Geografia #Descomplica",
+      "url": "https://www.youtube.com/watch?v=FOnb4-VKF4A"
+    },
+    {
+      "id": 12,
+      "categoriaId": 2,
+      "titulo": "Geografia para o Enem #Descomplica",
+      "url": "https://www.youtube.com/watch?v=qCxaDtPXJFw"
+    },
+    {
+      "id": 13,
+      "categoriaId": 3,
+      "titulo": "O que mais cai em Filosofia e Sociologia? #Descomplica",
+      "url": "https://www.youtube.com/watch?v=LQPSZRKq6cg"
+    },
+    {
+      "id": 14,
+      "categoriaId": 3,
+      "titulo": "Resumão de Filosofia e Sociologia #Aulalivre",
+      "url": "https://www.youtube.com/watch?v=K4fgC42_QmE"
+    },
+    {
+      "id": 15,
+      "categoriaId": 3,
+      "titulo": "Resumão de Filosofia e Sociologia #Mesalva",
+      "url": "https://www.youtube.com/watch?v=5eknNeWWmEI"
+    },
+    {
+      "id": 16,
+      "categoriaId": 3,
+      "titulo": "Resumão de Filosofia e Sociologia #FBonline",
+      "url": "https://www.youtube.com/watch?v=DOvo6uxvTBc"
+    },
+    {
+      "id": 17,
+      "categoriaId": 3,
+      "titulo": "Resumão de Filosofia e Sociologia #Aulalivre",
+      "url": "https://www.youtube.com/watch?v=acP4fIlaKzE"
+    },
+    {
+      "id": 18,
+      "categoriaId": 4,
+      "titulo": "O que mais cai em Biologia? #Descomplica",
+      "url": "https://www.youtube.com/watch?v=Gnr0ObQxY54"
+    },
+    {
+      "id": 19,
+      "categoriaId": 4,
+      "titulo": "Conceitos básicos da Ecologia #KennedyRamos",
+      "url": "https://www.youtube.com/watch?v=w8zHbA3CSBo"
+    },
+    {
+      "id": 20,
+      "categoriaId": 4,
+      "titulo": "Maratona de Biologia #BiologiaProfGuilherme",
+      "url": "https://www.youtube.com/watch?v=1P0x7NJqPMQ"
+    },
+    {
+      "id": 21,
+      "categoriaId": 4,
+      "titulo": "Resumão de Biologia #Descomplica",
+      "url": "https://www.youtube.com/watch?v=VJcYg8aZmls"
+    },
+    {
+      "id": 22,
+      "categoriaId": 4,
+      "titulo": "Resumão de Biologia #Descomplica",
+      "url": "https://www.youtube.com/watch?v=b7sPpzwRfoU"
+    },
+    {
+      "id": 23,
+      "categoriaId": 5,
+      "titulo": "Resumão de Física #TVOficina",
+      "url": "https://www.youtube.com/watch?v=s6AoIUQzGFY"
+    },
+    {
+      "id": 24,
+      "categoriaId": 5,
+      "titulo": "Resumão de Física #MeSalva",
+      "url": "https://www.youtube.com/watch?v=eFXFQPrgxFI"
+    },
+    {
+      "id": 25,
+      "categoriaId": 5,
+      "titulo": "Dicas de Física para o ENEM #Beduka",
+      "url": "https://www.youtube.com/watch?v=8Ps_B27spf8"
+    },
+    {
+      "id": 26,
+      "categoriaId": 5,
+      "titulo": "Resumão de Física #MeSalva",
+      "url": "https://www.youtube.com/watch?v=XMXsh5A0blI"
+    },
+    {
+      "id": 27,
+      "categoriaId": 5,
+      "titulo": "Resumão de Física e maratona #MeSalva",
+      "url": "https://www.youtube.com/watch?v=DHkLsq1wv88"
+    },
+    {
+      "id": 28,
+      "categoriaId": 6,
+      "titulo": "Resumão de Química #MeSalva",
+      "url": "https://www.youtube.com/watch?v=8kNam8fnf8w"
+    },
+    {
+      "id": 29,
+      "categoriaId": 6,
+      "titulo": "Revisão de Química #Aulalivre",
+      "url": "https://www.youtube.com/watch?v=wFpSW-dSBDE"
+    },
+    {
+      "id": 30,
+      "categoriaId": 6,
+      "titulo": "Revisão de Química #Aulalivre",
+      "url": "https://www.youtube.com/watch?v=tAlyelx-Xek"
+    },
+    {
+      "id": 31,
+      "categoriaId": 6,
+      "titulo": "O que mais cai em Química? #Descomplica",
+      "url": "https://www.youtube.com/watch?v=9DlTp2ew_ew"
+    },
+    {
+      "id": 32,
+      "categoriaId": 6,
+      "titulo": "Tudo sobre Química #Descomplica",
+      "url": "https://www.youtube.com/watch?v=gPBcQBKwhUE"
+    },
+    {
+      "id": 33,
+      "categoriaId": 7,
+      "titulo": "Português do Zero para ENEM #AprovaConcursos",
+      "url": "https://www.youtube.com/watch?v=ygMoWIKUoZA"
+    },
+    {
+      "id": 34,
+      "categoriaId": 7,
+      "titulo": "O que mais cai em Português? #Stoodi",
+      "url": "https://www.youtube.com/watch?v=Jn3f8Qze5Vw&feature=emb_title"
+    },
+    {
+      "id": 35,
+      "categoriaId": 7,
+      "titulo": "Funções da linguagem #CursoEnemGratuito",
+      "url": "https://www.youtube.com/watch?v=GKFYCOt2wpA"
+    },
+    {
+      "id": 36,
+      "categoriaId": 7,
+      "titulo": "Resumão de Linguagens #MeSalva",
+      "url": "https://www.youtube.com/watch?v=Cie9n0V0-F0"
+    },
+    {
+      "id": 37,
+      "categoriaId": 7,
+      "titulo": "Linguagens, Códigos e suas Tecnologias no ENEM",
+      "url": "https://www.youtube.com/watch?v=SQWbSVCAtV0"
+    },
+    {
+      "id": 38,
+      "categoriaId": 8,
+      "titulo": "Aulão de Literatura #VáLerUmLivro",
+      "url": "https://www.youtube.com/watch?v=wv_7blnRKrM"
+    },
+    {
+      "id": 39,
+      "categoriaId": 8,
+      "titulo": "Resumão de Literatura #QueroBolsa",
+      "url": "https://www.youtube.com/watch?v=PPikx1KTffU"
+    },
+    {
+      "id": 40,
+      "categoriaId": 8,
+      "titulo": "Revisão mágica de Literatura #MundoEdu",
+      "url": "https://www.youtube.com/watch?v=chKmEdyMs08"
+    },
+    {
+      "id": 41,
+      "categoriaId": 8,
+      "titulo": "O que você precisa saber sobre Literatura? #VáLerUmLivro",
+      "url": "https://www.youtube.com/watch?v=MFuOLPVj56I"
+    },
+    {
+      "id": 42,
+      "categoriaId": 8,
+      "titulo": "Literatura no ENEM #Descomplica",
+      "url": "https://www.youtube.com/watch?v=m95T049myok"
+    },
+    {
+      "id": 43,
+      "categoriaId": 9,
+      "titulo": "Línguas Estrangeiras no ENEM",
+      "url": "https://www.youtube.com/watch?v=X8PGFlwGxSM"
+    },
+    {
+      "id": 44,
+      "categoriaId": 9,
+      "titulo": "Línguas Estrangeiras no ENEM",
+      "url": "https://www.youtube.com/watch?v=Zrqz52ApOQc"
+    },
+    {
+      "id": 45,
+      "categoriaId": 9,
+      "titulo": "Línguas Estrangeiras no ENEM",
+      "url": "https://www.youtube.com/watch?v=5LbPdOoxNR4"
+    },
+    {
+      "id": 46,
+      "categoriaId": 9,
+      "titulo": "Línguas Estrangeiras no ENEM",
+      "url": "https://www.youtube.com/watch?v=zQqBGOBAd3Y"
+    },
+    {
+      "id": 47,
+      "categoriaId": 9,
+      "titulo": "Línguas Estrangeiras no ENEM",
+      "url": "https://www.youtube.com/watch?v=0QxyVcBDL7M"
+    },
+    {
+      "id": 48,
+      "categoriaId": 10,
+      "titulo": "Matemática no ENEM",
+      "url": "https://www.youtube.com/watch?v=XutCMjZYQaw"
+    },
+    {
+      "id": 49,
+      "categoriaId": 10,
+      "titulo": "Matemática no ENEM",
+      "url": "https://www.youtube.com/watch?v=Xs93BWB6NdU"
+    },
+    {
+      "id": 50,
+      "categoriaId": 10,
+      "titulo": "Matemática no ENEM",
+      "url": "https://www.youtube.com/watch?v=K5xjlTBJQww"
+    },
+    {
+      "id": 51,
+      "categoriaId": 10,
+      "titulo": "Matemática no ENEM",
+      "url": "https://www.youtube.com/watch?v=7J8rjx7e0Sc"
+    },
+    {
+      "id": 52,
+      "categoriaId": 10,
+      "titulo": "Matemática no ENEM",
+      "url": "https://www.youtube.com/watch?v=XcR_NulhlKI"
+    },
+    {
+      "titulo": "Vídeo padrão",
+      "url": "https://www.youtube.com/watch?v=hka7ay9F1kk",
+      "categoriaId": 1,
+      "id": 53
+    }
+  ]
 }
-

@@ -96,8 +96,8 @@ function FormField({label, type, name, value, onChange}) {
 }
 
 FormField.defaultProps = {
-  type: 'text',
-  value: '',
+  type: 'text',
+  value: '',
 };
 
 FormField.propTypes = {
