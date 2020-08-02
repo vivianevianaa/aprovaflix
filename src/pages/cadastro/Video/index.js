@@ -12,9 +12,9 @@ function CadastroVideo() {
     const [categorias, setCategorias] = useState([]);
     const categoryTitles = categorias.map(({ titulo }) => titulo);
     const { handleChange, values } = useForm({
-        titulo: 'Vídeo padrão',
-        url: 'https://www.youtube.com/watch?v=V2x-vy-wFt0',
-        categoria: 'História',
+        titulo: '',
+        url: '',
+        categoria: '',
     });
 
     useEffect(() => {
