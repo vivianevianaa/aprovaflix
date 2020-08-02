@@ -409,12 +409,6 @@
       "categoriaId": 10,
       "titulo": "Matemática no ENEM",
       "url": "https://www.youtube.com/watch?v=XcR_NulhlKI"
-    },
-    {
-      "titulo": "Vídeo padrão",
-      "url": "https://www.youtube.com/watch?v=hka7ay9F1kk",
-      "categoriaId": 1,
-      "id": 53
     }
   ]
 }
