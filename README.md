@@ -5,7 +5,7 @@
 <p>Node.js, VS Code, Git.</p>
 
 <h3>Padronização do código:</h3>
-<p>ESlint.</p>
+<p>ESlint. (https://www.npmjs.com/package/eslint-plugin-jsx-a11y) </p>
 
 <h3>Recursos utilizados:</h3>
 <p>• Google Fonts</p>
