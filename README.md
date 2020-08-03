@@ -17,6 +17,7 @@
 <p>• useHistory</p>
 <p>• useEffect</p>
 <p>• Datafield</p>
+<p>• Servidor portátil com JSON-Server (https://github.com/typicode/json-server)</p>
 <p>• Concurrently</p>
 
 <h3>Deploy da aplicação:</h3>
