@@ -26,23 +26,7 @@ function CadastroCategoria() {
                     ...resposta,
                 ]);
             })
-        // setTimeout(() => {
-        //     setCategorias([
-        //         ...categorias,
-        //         {
-        //             id: 1,
-        //             nome: 'História',
-        //             descricao: 'História no ENEM',
-        //             cor: '#8B4513'
-        //         },
-        //         {
-        //             id: 2,
-        //             nome: 'Geografia',
-        //             descricao: 'Geografia no ENEM',
-        //             cor: '#00C86F'
-        //         },
-        //     ]);
-        // }, 4 * 1000);
+
     }, []);
 
     return (
@@ -68,18 +52,18 @@ function CadastroCategoria() {
                 />
 
                 <FormField
-                    label="Descrição"
-                    type="textarea"
-                    name="descricao"
-                    value={values.descricao}
-                    onChange={handleChange}
-                />
-
-                <FormField
                     label="Cor"
                     type="color"
                     name="cor"
                     value={values.cor}
+                    onChange={handleChange}
+                />
+
+                <FormField
+                    label="Descrição"
+                    type="textarea"
+                    name="descricao"
+                    value={values.descricao}
                     onChange={handleChange}
                 />
 

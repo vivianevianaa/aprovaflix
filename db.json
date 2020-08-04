@@ -30,7 +30,7 @@
     {
       "id": 4,
       "titulo": "Biologia",
-      "cor": "#orange",
+      "cor": "#008B8B",
       "link_extra": {
         "text": "O que estudar para Biologia no ENEM",
         "url": "https://descomplica.com.br/tudo-sobre-enem/novidades/biologia-enem/"
@@ -39,7 +39,7 @@
     {
       "id": 5,
       "titulo": "Física",
-      "cor": "#red",
+      "cor": "#4B0082",
       "link_extra": {
         "text": "O que estudar para Física no ENEM",
         "url": "https://descomplica.com.br/tudo-sobre-enem/novidades/fisica-enem/"

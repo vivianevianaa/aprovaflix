@@ -5,6 +5,7 @@ import Carousel from '../../components/Carousel';
 import PageDefault from '../../components/PageDefault';
 import categoriasRepository from '../../repositories/categorias';
 
+
 //http://localhost:8080/categorias?_embed=videos
 function Home() {
   const [dadosIniciais, setDadosIniciais] = useState([]);
@@ -48,7 +49,7 @@ function Home() {
           />
         );
       })}
-      
+
     </PageDefault>
   );
 }

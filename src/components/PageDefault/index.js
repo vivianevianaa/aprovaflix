@@ -16,6 +16,7 @@ const Main = styled.main`
     `}
 `;
 
+// eslint-disable-next-line react/prop-types
 function PageDefault({ children, paddingAll }) {
     return (
         <React.Fragment>
