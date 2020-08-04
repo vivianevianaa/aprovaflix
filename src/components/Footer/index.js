@@ -10,7 +10,7 @@ function Footer() {
         <img src={LogoFooter} alt="Logo Aprovaflix" />
       </a>
       <p>
-        Orgulhosamente criado pela Viviane Viana, durante a
+        Orgulhosamente recriado pela Viviane Viana, durante a
         {' '}
         <a href="https://www.alura.com.br/">
           Imersão React da Alura.
