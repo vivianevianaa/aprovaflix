@@ -15,6 +15,7 @@ function Home() {
     categoriasRepository.getAllWithVideos()
       .then((categoriasComVideos) => {
         console.log(categoriasComVideos[0].videos[0]);
+        console.log('webhook teste!!!!!!!!');
         setDadosIniciais(categoriasComVideos);
       })
       .catch((err) => {
